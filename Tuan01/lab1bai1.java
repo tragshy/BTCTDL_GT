@@ -1,4 +1,4 @@
-public class lab1bai1
+public class lab1bai1 
 {
     public static void main(String[] args) 
     {
@@ -13,5 +13,5 @@ public class lab1bai1
         System.out.println("Diem: "+ diemTB);
 
     }
-    
+      
 }
